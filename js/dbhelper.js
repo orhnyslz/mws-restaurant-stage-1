@@ -13,7 +13,7 @@ class DBHelper {
   }
 
   /**
-   * Fetch all restaurants.
+   * Fetch all restaurants. 
    */
   static fetchRestaurants(callback) {
     let xhr = new XMLHttpRequest();
